@@ -1,0 +1,11 @@
+A gui for adb connect.
+
+Saves the previous entered IP and Port.
+Reads the previous IP Port from saved file.
+Updates the existing IP Port if changed.
+uses adb connect command to connect to phone.
+Then adb shell to open the shell.
+Then adb kill-server to kill the adb server.
+
+Compiled to exe using py2exe:
+http://www.py2exe.org
