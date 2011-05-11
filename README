@@ -7,5 +7,7 @@ uses adb connect command to connect to phone.
 Then adb shell to open the shell.
 Then adb kill-server to kill the adb server.
 
+It's far from perfect but it's usable.
+
 Compiled to exe using py2exe:
 http://www.py2exe.org
