@@ -1,4 +1,6 @@
-A gui for adb connect.
+A GUI for adb connect.
+
+Requires: easygui
 
 Saves the previous entered IP and Port.
 Reads the previous IP Port from saved file.
